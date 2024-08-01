@@ -1,5 +1,5 @@
 # 303. Range Sum Query - Immutable
-# https://leetcode.com/problems/range-sum-query-immutable
+# https://leetcode.com/problems/range-sum-query-immutable/description
 # difficulty: easy
 
 # input
@@ -8,6 +8,7 @@
 
 # output
 # [null, 1, -1, -3]
+
 class NumArray(object):
 
     def __init__(self, nums):
