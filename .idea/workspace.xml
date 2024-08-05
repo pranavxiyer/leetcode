@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd8dc624-802c-441a-b130-9d802ffa3903" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/problems/prefix and postfix/1423. Maximum Points You Can Obtain from Cards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/prefix and postfix/1480. Running Sum of 1d Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/prefix and postfix/303. Range Sum Query - Immutable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/prefix and postfix/724. Find Pivot Index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/prefix and postfix/238. Product of Array Except Self.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/arrays and hashing/1423. Maximum Points You Can Obtain from Cards.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/arrays and hashing/1480. Running Sum of 1d Array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/arrays and hashing/303. Range Sum Query - Immutable.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722397263753</updated>
       <workItem from="1722397264805" duration="3328000" />
-      <workItem from="1722405757394" duration="6408000" />
+      <workItem from="1722405757394" duration="7676000" />
     </task>
     <servers />
   </component>
