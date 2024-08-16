@@ -45,12 +45,12 @@ class Solution(object):
     
         # solution that was too slow
         # s1_perm = ''.join(sorted(s1))
-        # r = 0
-        # l = len(s1_perm)
-        # while r + l <= len(s2):
-        #     s2_substr = s2[r:r+l]
+        # l = 0
+        # r = len(s1_perm) - 1
+        # while l + r < len(s2):
+        #     s2_substr = s2[l:l+r+1]
         #     sorted_s2 = ''.join(sorted(s2_substr))
         #     if s1_perm == sorted_s2:
         #         return True
-        #     r += 1
+        #     l += 1
         # return False
