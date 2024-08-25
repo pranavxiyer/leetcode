@@ -2,7 +2,7 @@
 # given an array of numbers, create a prefix array of the smallest number to the left
 # ex:
 # input: [5, 9, 2, 6]
-# output: [5, 5, 2, 2
+# output: [5, 5, 2, 2]
 def create_prefix_array(arr):
     prefix = []
     smallest = float("inf")
